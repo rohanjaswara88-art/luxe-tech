@@ -8,7 +8,7 @@ A responsive demo storefront built with Vite and vanilla JavaScript. Open a prod
 
 > Built by [Rohan Jaswara](https://rohanjaswara88-art.github.io/portfolio/), a BCA (AI & ML) student.
 
-The full source (`src/`, `public/`) is in `luxe-tech-graphite-cascade-integrated.zip`; unzip it before running locally.
+The app lives in `src/` (`main.js`, `style.css`) and its assets in `public/` (the 3D model and product photo). Every push and pull request runs a production build in GitHub Actions.
 
 ## Run locally
 
