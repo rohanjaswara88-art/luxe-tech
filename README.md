@@ -2,6 +2,8 @@
 
 **Live site: [lux-techh.netlify.app](https://lux-techh.netlify.app/)**
 
+![LUXE TECH home page](docs/screenshot.png)
+
 A responsive demo storefront built with Vite and vanilla JavaScript. Open a product to drag through its views, zoom in, pick a finish and add it to a working cart. One product, the GRAPHITE Cascade perfume box, is a real 3D model you can rotate, rendered with Three.js.
 
 **Tech:** JavaScript · Vite · Three.js (GLTFLoader) · HTML · CSS
